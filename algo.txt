@@ -1,0 +1,16 @@
+//algorithm
+//1. word contains :
+//2. word contains is || at || is at
+
+steps
+// read the file line by line
+// store all words that are after :, is or at.
+// if nothing found store the entire sentence
+// remove thank you
+//
+
+THE NINETH MACO OUTPUT, 717 N 190TH PLC, OMAHA, NE 681182049
+10707 Pacific Street, Omaha, NE 65114
+the address is HEALTHWEST MPC1, 16120 W DODGE RD, OMAHA, NE 681182049
+the address at HEALTHWEST MPC, 161202 W DODGE RD, OMAHA, NE 681182049
+the address is at HEALTHWEST MPC1, 16121 W DODGE RD, OMAHA, NE 681182049
